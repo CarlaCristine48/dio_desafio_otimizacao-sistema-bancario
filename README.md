@@ -13,7 +13,8 @@
 ## Características do Projeto :
 
 ### Objetivo Geral
-Otimizar sistema bancário com inserção de funcões em Python.
+Otimizar sistema bancário com inserção de funcões em Python. Separando as funções
+existentes de saque, depósito e extrato em funções e criando duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
 
 ### Desafio
 Otimizar sistema bancário já criado em repositório [dio-desafio-sistema-bancario](https://github.com/CarlaCristine48/dio-desafio-sistema-bancario), reescrevendo o código por meio de funções e criando novas funcionalidades para o sistema, como criação de nova conta, listagem de contas e criação de usuário.
